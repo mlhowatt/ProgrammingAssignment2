@@ -1,4 +1,4 @@
-## The two functions 'makeCacheMatrix' and 'cacheSolve' together calculate the inverse of matrix
+## The two functions 'makeCacheMatrix' and 'cacheSolve' together calculate the inverse of an invertible matrix
 ## and cache the matrix's inverse for use in subsequent calculations
 ##  
 ## The required argument to the first function 'makeCacheMatrix' is a invertible matrix and it returns a list
